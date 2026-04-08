@@ -3,9 +3,8 @@
 # Hi, I'm Arinya Maurya 👋
 **Full Stack Developer | Crafting Scalable Digital Experiences**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arinya-maurya/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mauryaarinya57@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=react&logoColor=white)](https://github.com/Arinyamaurya/Portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-9B59B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arinya-maurya/)
+[![Email](https://img.shields.io/badge/Email-E0938E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mauryaarinya57@gmail.com)
 
 </div>
 
