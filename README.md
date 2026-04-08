@@ -12,9 +12,9 @@
 
 ### 👨‍💻 About Me
 
-* ⚡ **Specialization:** Full Stack Development with a focus on high-performance web apps.
-* 🌱 **Currently:** Deep diving into System Design and Scalable Architectures.
-* 🎯 **Goal:** Open to Frontend and Full Stack opportunities where I can contribute to meaningful products.
+* ⚡ **Full Stack Developer** with 1+ year of experience building production-ready apps.
+* 🌱 **Current Focus:** Shipping reusable UI libraries and optimizing database performance.
+* 🎯 **Learning:** Leveling up in System Design to build more resilient, scalable architectures.
 * 📬 **Reach out:** [mauryaarinya57@gmail.com](mailto:mauryaarinya57@gmail.com)
 
 ---
