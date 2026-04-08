@@ -1,4 +1,6 @@
 <div align="center">
+
+  
 # ARINYA MAURYA
 **Full Stack Developer | Crafting Scalable Digital Experiences**
 
