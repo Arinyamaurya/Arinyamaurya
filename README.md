@@ -1,4 +1,7 @@
 <div align="center">
+<p align="center">
+  <img src="https://in.pinterest.com/pin/292311832082523204/" width="100%" />
+</p>
 
 # ARINYA MAURYA
 **Full Stack Developer | Crafting Scalable Digital Experiences**
