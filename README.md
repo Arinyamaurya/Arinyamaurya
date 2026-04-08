@@ -51,19 +51,33 @@
 
 ---
 
-### 📊 GitHub Insights
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arinyamaurya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arinyamaurya&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arinyamaurya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arinyamaurya&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
+---
+
+## 🔥 Contribution Streak
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arinyamaurya&theme=tokyonight&hide_border=true" width="98%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arinyamaurya&theme=tokyonight&hide_border=true" width="95%" />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Arinyamaurya&style=for-the-badge&color=6366f1" />
 </p>
 
 ---
 
 <div align="center">
-  <sub>Profile views: <img src="https://komarev.com/ghpvc/?username=Arinyamaurya&style=flat-square&color=6366f1" /></sub>
+
+### 💡 *Code. Build. Improve. Repeat.*
+
 </div>
