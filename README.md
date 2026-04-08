@@ -2,9 +2,8 @@
 <h3 align="center">Full Stack Developer | Building modern web apps 🚀</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">LinkedIn</a> •
-  <a href="https://yourportfolio.com">Portfolio</a> •
-  <a href="mailto:yourmail@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/arinya-maurya/">LinkedIn</a> •
+  <a href="mailto:mauryaarinya57@gmail.com">Email</a>
 </p>
 
 <p align="center">
