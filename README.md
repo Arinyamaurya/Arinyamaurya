@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Arinya Maurya 👋
+# ARINYA MAURYA
 **Full Stack Developer | Crafting Scalable Digital Experiences**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-9B59B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arinya-maurya/)
