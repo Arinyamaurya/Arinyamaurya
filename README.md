@@ -54,11 +54,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arinyamaurya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arinyamaurya&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arinyamaurya&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arinyamaurya&theme=react-dark&hide_border=true" width="98%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arinyamaurya&theme=tokyonight&hide_border=true" width="98%" />
 </p>
 
 ---
