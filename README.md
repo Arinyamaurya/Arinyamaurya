@@ -66,15 +66,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arinyamaurya&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true&cache_seconds=86400" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arinyamaurya&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="49%" />
-</p>
-
----
-
 ## 🔥 Contribution Streak
 
 <p align="center">
