@@ -4,7 +4,6 @@
 
 **Full Stack Developer | Crafting Scalable Digital Experiences**
 
-![Available](https://img.shields.io/badge/🟢_AVAILABLE-Immediate_Joiner-2ecc71?style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-9B59B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arinya-maurya/)
 [![Email](https://img.shields.io/badge/Email-E0938E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mauryaarinya57@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Arinyamaurya/Portfolio)
