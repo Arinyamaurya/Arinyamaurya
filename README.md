@@ -64,32 +64,7 @@
 | 🎥 [Zoomy Video Call](https://github.com/Arinyamaurya/Zoomy_video_confrencing) | Real-time video conferencing app with secure room management. | React, WebRTC, Node.js | [Demo ↗](https://github.com/Arinyamaurya/Zoomy_video_confrencing) |
 | 🎲 [Number Guessing](https://github.com/Arinyamaurya/number_guessing_game) | Logic-based game focused on algorithm efficiency and state handling. | JavaScript, CSS | [Demo ↗](https://github.com/Arinyamaurya/number_guessing_game) |
 
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Arinyamaurya&theme=tokyonight&hide_border=true" width="95%" />
-</p>
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arinyamaurya&style=for-the-badge&color=6366f1" />
-</p>
-
----
-
-## 📬 Let's Connect — I'm Ready to Contribute!
-
-<div align="center">
-
-**Looking for a motivated Full Stack Developer who can hit the ground running?**
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-9B59B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arinya-maurya/)
-[![Email](https://img.shields.io/badge/Send_an_Email-E0938E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mauryaarinya57@gmail.com)
+--- 
 
 ### 💡 *Code. Build. Improve. Repeat.*
 
