@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-9B59B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arinya-maurya/)
 [![Email](https://img.shields.io/badge/Email-E0938E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mauryaarinya57@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Arinyamaurya/Portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-five-theta-zn0eqpf8sl.vercel.app/)
 
 > 🚀 **Actively seeking Full Stack / Frontend roles** — available to join immediately!
 
@@ -60,9 +60,9 @@
 
 | Project | Description | Stack | Live |
 |:---|:---|:---|:---:|
-| 🌐 [Personal Portfolio](https://github.com/Arinyamaurya/Portfolio) | Modern portfolio showcasing technical skills and creative work. | Next.js, Tailwind CSS | [Demo ↗](https://github.com/Arinyamaurya/Portfolio) |
-| 🎥 [Zoomy Video Call](https://github.com/Arinyamaurya/Zoomy_video_confrencing) | Real-time video conferencing app with secure room management. | React, WebRTC, Node.js | [Demo ↗](https://github.com/Arinyamaurya/Zoomy_video_confrencing) |
-| 🎲 [Number Guessing](https://github.com/Arinyamaurya/number_guessing_game) | Logic-based game focused on algorithm efficiency and state handling. | JavaScript, CSS | [Demo ↗](https://github.com/Arinyamaurya/number_guessing_game) |
+| 🌐 [Personal Portfolio](https://github.com/Arinyamaurya/Portfolio) | Modern portfolio showcasing technical skills and creative work. | Next.js, Tailwind CSS | [Demo ↗](https://portfolio-five-theta-zn0eqpf8sl.vercel.app/) |
+| 🎥 [Zoomy Video Call](https://github.com/Arinyamaurya/Zoomy_video_confrencing) | Real-time video conferencing app with secure room management. | React, WebRTC, Node.js | [Demo ↗](https://zoomy-video-confrencing.vercel.app/) |
+| 🎲 [Number Guessing](https://github.com/Arinyamaurya/number_guessing_game) | Logic-based game focused on algorithm efficiency and state handling. | JavaScript, CSS | [Demo ↗](https://number-guessing-game-rho-blue.vercel.app/) |
 
 --- 
 
